@@ -5,5 +5,5 @@ build website:
     - npm install -g gatsby-cli
     - gatsby build
   artifacts:
-    path:
+    paths:
       - ./public
