@@ -4,6 +4,6 @@ build website:
     - npm install
     - npm install -g gatsby-cli
     - gatsby build
-  srtifacts:
+  artifacts:
     path:
       - ./public
